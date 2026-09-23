@@ -1,0 +1,23 @@
+.parent{
+    position: relative;
+    width: 300px;
+    height: 200px;
+    background-color: blue;
+}
+
+.childvang{
+    position: absolute;
+    top: 20px;
+    left: 30px;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+.childxanh{
+    position: absolute;
+    top: 20px;
+    left: 150px;
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+}
